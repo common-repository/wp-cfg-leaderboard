@@ -1,0 +1,44 @@
+.wpcfgstandalone
+{
+	font-size: 1em;
+	font-family: 'Helvetica Neue', sans-serif;
+	background: white !important;
+}
+.wpcfgstandalone h1
+{
+	font-size: 3em !important;
+	font-family: 'Helvetica Neue', sans-serif important!;
+}
+.wpcfgstandalone a
+{
+	color: #c30033 !important;
+}
+.wpcfgstandalone a:visited;
+{
+	color: #c30033 !important;
+}
+.wpcfgstandalone a:hover
+{
+	color: #e30055 !important;
+}
+td.jsgrid-cell input
+{
+	padding: 0;
+}
+td.jsgrid-cell select
+{
+	padding: 0;
+}
+td.jsgrid-cell
+{
+	padding: 2px;
+	font-size: 12px;
+}
+th.jsgrid-header-cell
+{
+	font-size: 12px;
+}
+.jsgrid-grid-header,
+.jsgrid-grid-body{
+  overflow: auto;
+}
